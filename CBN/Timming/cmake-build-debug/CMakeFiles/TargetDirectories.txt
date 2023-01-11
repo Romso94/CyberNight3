@@ -1,0 +1,3 @@
+C:/Users/Romai/Desktop/CBN/Timming/cmake-build-debug/CMakeFiles/Timming.dir
+C:/Users/Romai/Desktop/CBN/Timming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Romai/Desktop/CBN/Timming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
